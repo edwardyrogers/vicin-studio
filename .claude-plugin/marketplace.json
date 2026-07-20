@@ -1,0 +1,13 @@
+{
+  "name": "vicin-studio",
+  "owner": {
+    "name": "Apstree"
+  },
+  "plugins": [
+    {
+      "name": "vicin-studio",
+      "source": ".",
+      "description": "AI tools for content creators — analyse trends and generate scripts"
+    }
+  ]
+}
