@@ -6,7 +6,10 @@
   "plugins": [
     {
       "name": "vicin-studio",
-      "source": ".",
+      "source": {
+        "source": "git",
+        "url": "https://github.com/edwardyrogers/vicin-studio.git"
+      },
       "description": "AI tools for content creators — analyse trends and generate scripts"
     }
   ]
