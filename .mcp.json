@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vicin-studio": {
+      "command": "uv",
+      "args": ["run", "--with", "mcp[cli]", "--with", "httpx", "python", "mcp/server.py"]
+    }
+  }
+}

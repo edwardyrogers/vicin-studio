@@ -1,5 +1,7 @@
 {
   "name": "vicin-studio",
   "description": "AI tools for content creators — analyse trends and generate scripts",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "author": "Apstree",
+  "keywords": ["content-creators", "trends", "scripts", "mcp"]
 }
