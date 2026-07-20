@@ -1,11 +1,12 @@
 {
   "name": "vicin-studio",
   "owner": {
-    "name": "Apstree"
+    "name": "Edward Yin"
   },
   "plugins": [
     {
       "name": "vicin-studio",
+      "displayName": "Vicin Studio",
       "source": {
         "source": "url",
         "url": "https://github.com/edwardyrogers/vicin-studio.git"
