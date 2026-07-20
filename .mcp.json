@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "vicin-studio": {
+    "studio": {
       "command": "python3",
       "args": ["mcp/launcher.py"]
     }
